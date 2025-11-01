@@ -629,5 +629,10 @@ async def get_bucket_cors(
         return {"error": str(e)}
 
 
-if __name__ == "__main__":
+def main():
+    """Entry point for s3-mcp CLI."""
     app.run(transport="stdio")
+
+
+if __name__ == "__main__":
+    main()

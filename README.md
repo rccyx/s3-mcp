@@ -43,8 +43,7 @@ Add this to your Cursor MCP configuration:
 Cursor will route that request through the MCP server automatically.
 
 Make sure it's green and all the tools are available.
-
-![image](https://github.com/user-attachments/assets/6b37044d-e6f3-447a-8809-4431822c0731)
+<img width="951" height="430" alt="image" src="https://github.com/user-attachments/assets/c1c0b425-d44b-4cd7-b34d-1621bab2a05d" />
 
 ---
 
